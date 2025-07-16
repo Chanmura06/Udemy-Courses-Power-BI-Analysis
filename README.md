@@ -24,14 +24,8 @@ This end-to-end project demonstrates my ability to clean, transform, and visuali
 ## 🚀 How to View
 
 1. Download the `.pbix` file and open it in **Power BI Desktop**.  
-2. Or review the attached PowerPoint for a summary of key findings.
+2. Please take a look at the attached PowerPoint for a summary of key findings.
 
----
-
-## 🔗 Live Version (Optional)
-
-*If published:* [Click here to view the interactive dashboard](#)  
-(*Add your Power BI Service link if you have published it publicly*)
 
 ---
 
